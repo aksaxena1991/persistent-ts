@@ -1,0 +1,31 @@
+{
+  "result": [
+    {
+      "question": "Lorem ipsum dolor sit amet, fugit novum nostrum eam at, at eros delectus cotidieque usu. Ne iuvaret ullamcorper eum, cum te consulatu posidonium scribentur?"
+    },
+    {
+      "question": "Mea ei aliquam feugait sapientem, meis consetetur adversarium te vix! Delicata pericula abhorreant eam ut, nonumes appetere aliquando pro no?"
+    },
+    {
+      "question": "Meis viderer consequat pri ne, quo cu dicunt quaestio. Mei et ancillae persequeris voluptatibus. Ad officiis voluptatum eum, quot convenire mel ut, labitur singulis cotidieque qui ut. Diceret partiendo temporibus mea cu. Ameturbanitas te mei. Sit eu mundi deleniti conceptam, per ea duis aeque adversarium? Mutat sonet salutandi vel cu, ea eripuit accumsan eloquentiam vel. Te eam quando nusquam tibique?"
+    },
+    {
+      "question": "Nonumy eruditi te per?",
+      "variants": [
+        "Magna utroque conceptam ad est",
+        "Vix ridens pertinax recteque et",
+        "Sed te omnes tollit"
+      ]
+    },
+    {
+      "question": "Ea case minimum hendrerit est, regione posidonium no est?"
+    },
+    {
+      "question": "Vix eu lorem zril postea, pro possim propriae vituperata eu?",
+      "variants": ["uno", "dos", "tres"]
+    },
+    {
+      "question": "Cum te malorum nonumes luptatum, eos labitur mediocritatem eu?"
+    }
+  ]
+}
